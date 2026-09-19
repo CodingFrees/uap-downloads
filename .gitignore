@@ -1,0 +1,10 @@
+# Release binaries must be uploaded only as reviewed GitHub Release assets.
+*.exe
+*.msix
+*.deb
+*.dmg
+*.pkg
+*.tar.gz
+*.zip
+*.sha256
+*.provenance.json
